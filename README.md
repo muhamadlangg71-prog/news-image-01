@@ -6,7 +6,7 @@ world news in one image", $250, deadline 2026-11-14T20:00:00Z).
 ## The image
 
 A newspaper front-page collage, 1024x1024, summing up Friday 13 November
-2026 in five captioned panels:
+2026 in eight captioned panels (v2 — wider coverage than v1's five):
 
 1. **NVIDIA CEO RESIGNS AFTER 33 YEARS** — Jensen Huang resigned amid a
    personal scandal; Nvidia stock fell.
@@ -19,6 +19,12 @@ A newspaper front-page collage, 1024x1024, summing up Friday 13 November
    outage entered its second day.
 5. **CHINA NAVAL DRILLS AROUND TAIWAN** — large unannounced Pacific naval
    drills; Taiwan called it intimidation.
+6. **US DOWNS 2 IRANIAN DRONES** — US forces downed two Iranian drones
+   headed for Bahrain; Iran claimed a radar strike.
+7. **TRUMP: DOUBLE MEXICO TARIFFS** — Trump told Vance to shift from Iran
+   to domestic corruption and threatened to double Mexico tariffs.
+8. **HOUTHIS HIT SAUDI OIL PIPELINE** — Houthis attacked the Saudi
+   East-West oil pipeline.
 
 ## How it works
 

@@ -1,5 +1,9 @@
-# news-image-01 entry (Python 3.13, standard library only, no network):
+# news-image-01 entry v2 (Python 3.13, standard library only, no network):
 # copies the entry image beside this file to /output/entry.png.
+# v2 image: newspaper front page "13 NOVEMBER 2026" with 8 captioned panels
+# in a 2x4 grid — Nvidia CEO resigns, Ukraine drone strike, US flights halted,
+# Microsoft 365 outage day 2, China naval drills around Taiwan, US downs 2
+# Iranian drones, Trump double Mexico tariffs, Houthis hit Saudi oil pipeline.
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 import os
